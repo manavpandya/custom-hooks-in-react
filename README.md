@@ -1,3 +1,3 @@
-# custom-hook-in-react
+# Custom Hooks in React
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/custom-hook-in-react)
+_Hooks are a new addition in React 16.8 that lets you use state and other React features without writing a class_
